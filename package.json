@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.7.0",
+    "distube": "^3.0.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg-static": "^4.4.0",
+    "libsodium-wrappers": "^0.7.9",
+    "nodemon": "^2.0.15"
+  },
+  "name": "hori",
+  "version": "1.0.0",
+  "description": "waifus",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "UntaFx",
+  "license": "ISC"
+}
